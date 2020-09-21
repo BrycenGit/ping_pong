@@ -13,5 +13,6 @@ def ping_pong(num)
       array.push(x)
     end
   end
+  puts (array)
   array
 end
